@@ -2,14 +2,6 @@
 
 Python backend for the Packet Analyzer project, providing packet capture, analysis, and REST API functionality.
 
-## 🏗️ Architecture
-backend/
-├── api/
-│ └── app.py # Flask REST API server
-└── (linked to src/) # Core analyzer engine
-
-text
-
 ## 📦 Core Modules
 
 ### `src/capturer.py`
