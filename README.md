@@ -1,11 +1,9 @@
-<<<<<<< HEAD
-=======
-# 🚀 PacketAnalyzer - Educational Network Protocol Analyzer
+# PacketAnalyzer - Educational Network Protocol Analyzer
 
 A professional-grade Python-based network packet analyzer for deep packet inspection, network diagnostics, and educational purposes. This tool provides comprehensive insights into network traffic with real-time analysis and detailed protocol explanations.
 
-## 📋 Features
-### 🔬 Core Analysis
+## Features
+### Core Analysis
 - **Real-time Packet Capture** - Live network traffic interception and analysis using Scapy
 - **Multi-layer Protocol Parsing** - Deep inspection of Ethernet, IP, TCP, UDP, and ICMP protocols
 - **Advanced Filtering System** - Custom filters by protocol, IP addresses, port numbers, and packet attributes
@@ -13,7 +11,7 @@ A professional-grade Python-based network packet analyzer for deep packet inspec
 - **Anomaly Detection** - Automated identification of network issues and suspicious activity
 - **Data Persistence** - Save and load packet captures in JSON format for later analysis
 
-### 🎓 Educational Value
+### Educational Value
 - **Layer-by-Layer Analysis** - Detailed breakdown of each OSI model layer
 - **Protocol Explanations** - Educational insights for each network protocol
 - **Interactive Learning** - Simulation mode for safe, educational exploration
